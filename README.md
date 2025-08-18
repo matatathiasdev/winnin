@@ -17,7 +17,7 @@ Análise exploratória: Descoberta de padrões e insights sobre os criadores de 
 Pipeline completo: Do scraping à análise final, com notebooks claros e documentados.
 
 🔹 Estrutura do Projeto
-
+```
 winnin/
 │
 ├─ notebooks/          # Notebooks Jupyter
@@ -28,7 +28,7 @@ winnin/
 ├─ data/               # Arquivos CSV/JSON usados nos testes
 ├─ README.md           # Este arquivo
 └─ requirements.txt    # Dependências Python
-
+```
 🔹 Como Rodar
 
 Clone o repositório:
