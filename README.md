@@ -1,11 +1,10 @@
-Winnin 🚀
+O projeto 🚀
 
-Winnin é um projeto experimental criado como parte de um teste técnico em Engenharia de Dados. Ele demonstra meu processo de extração, transformação e análise de dados, integrando múltiplas fontes públicas como Wikipedia e YouTube.
+Um projeto experimental criado como parte de um teste técnico em Engenharia de Dados. Ele demonstra meu processo de extração, transformação e análise de dados, integrando múltiplas fontes públicas como Wikipedia e YouTube.
 
 🔹 Motivação
 
-O Winnin nasceu da vontade de aplicar conceitos de Engenharia de Dados de forma prática e organizada.
-Mais do que apenas código, ele reflete curiosidade, atenção aos detalhes e boas práticas em projetos de análise e manipulação de dados.
+Aplicar conceitos de Engenharia de Dados de forma prática e organizada.
 
 🔹 Funcionalidades
 
@@ -18,6 +17,7 @@ Análise exploratória: Descoberta de padrões e insights sobre os criadores de 
 Pipeline completo: Do scraping à análise final, com notebooks claros e documentados.
 
 🔹 Estrutura do Projeto
+
 winnin/
 │
 ├─ notebooks/          # Notebooks Jupyter
@@ -29,23 +29,13 @@ winnin/
 ├─ README.md           # Este arquivo
 └─ requirements.txt    # Dependências Python
 
-🔹 Visualização dos Dados
-
-Exemplo de análise de criadores (GIF ou gráfico do notebook analyze_creators.ipynb):
-
-(Substitua pelo gráfico real gerado pelo notebook para maior impacto visual)
-
 🔹 Como Rodar
 
 Clone o repositório:
 
 git clone https://github.com/matatathiasdev/winnin.git
 
-
-Instale as dependências:
-
-pip install -r requirements.txt
-
+Criar uma conta no Databricks na versão Free
 
 Abra os notebooks na seguinte ordem:
 
@@ -68,15 +58,6 @@ Criar pipelines reproduzíveis e fáceis de manter.
 Aplicar boas práticas de Python, Pandas e requests em um projeto completo.
 
 Transformar dados brutos em insights relevantes de forma clara e organizada.
-
-🔹 Contribuição
-
-Este projeto é autoral e serve como portfólio/teste técnico.
-Sugestões são bem-vindas, mas use fork e pull request apenas para fins educativos.
-
-🔹 Licença
-
-MIT License
 
 🔹 Contato
 
