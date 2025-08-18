@@ -62,4 +62,5 @@ Transformar dados brutos em insights relevantes de forma clara e organizada.
 🔹 Contato
 
 Matheus Rodrigues – matheus.rodrigues_santos@hotmail.com
+
 linkedin - https://www.linkedin.com/in/matheus-rodrigues-106319b7/
